@@ -1,0 +1,22 @@
+{
+    "android_snap_114": [
+        {
+            "n_frame": 205,
+            "hash": [
+                [
+                    228,
+                    231,
+                    247,
+                    227,
+                    224,
+                    224,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        }
+    ]
+}

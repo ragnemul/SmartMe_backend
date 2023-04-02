@@ -1,0 +1,6736 @@
+{
+    "cnc_vol_kathecreadoracontenido_15_comisiones.mp4": [
+        {
+            "n_frame": 0,
+            "hash": [
+                [
+                    102,
+                    78,
+                    14,
+                    106,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 1,
+            "hash": [
+                [
+                    102,
+                    78,
+                    14,
+                    110,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 2,
+            "hash": [
+                [
+                    102,
+                    78,
+                    14,
+                    110,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 3,
+            "hash": [
+                [
+                    102,
+                    78,
+                    14,
+                    110,
+                    110,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 4,
+            "hash": [
+                [
+                    118,
+                    94,
+                    14,
+                    110,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 5,
+            "hash": [
+                [
+                    118,
+                    94,
+                    14,
+                    110,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 6,
+            "hash": [
+                [
+                    114,
+                    94,
+                    10,
+                    106,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 7,
+            "hash": [
+                [
+                    114,
+                    94,
+                    10,
+                    106,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 8,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 9,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 10,
+            "hash": [
+                [
+                    122,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 11,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 12,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 13,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 14,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 15,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 16,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 17,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 18,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 19,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 20,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 21,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 22,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 23,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 24,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 25,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 26,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 27,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 28,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 29,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    126,
+                    110,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 30,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    126,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 31,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    126,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 32,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    122,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 33,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    122,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 34,
+            "hash": [
+                [
+                    118,
+                    94,
+                    14,
+                    106,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 35,
+            "hash": [
+                [
+                    118,
+                    94,
+                    14,
+                    106,
+                    122,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 36,
+            "hash": [
+                [
+                    102,
+                    78,
+                    14,
+                    110,
+                    110,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 37,
+            "hash": [
+                [
+                    118,
+                    78,
+                    14,
+                    110,
+                    110,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 38,
+            "hash": [
+                [
+                    118,
+                    78,
+                    14,
+                    106,
+                    110,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 39,
+            "hash": [
+                [
+                    118,
+                    94,
+                    14,
+                    106,
+                    110,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 40,
+            "hash": [
+                [
+                    118,
+                    94,
+                    14,
+                    106,
+                    110,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 41,
+            "hash": [
+                [
+                    118,
+                    94,
+                    14,
+                    122,
+                    110,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 42,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 43,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 44,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 45,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 46,
+            "hash": [
+                [
+                    114,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 47,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    106,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 48,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    106,
+                    106,
+                    126,
+                    254,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 49,
+            "hash": [
+                [
+                    114,
+                    94,
+                    30,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 50,
+            "hash": [
+                [
+                    114,
+                    94,
+                    30,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 51,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    126,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 52,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 53,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 54,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    148
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 55,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 56,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 57,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 58,
+            "hash": [
+                [
+                    118,
+                    94,
+                    26,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 59,
+            "hash": [
+                [
+                    118,
+                    94,
+                    30,
+                    122,
+                    106,
+                    126,
+                    254,
+                    128
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 60,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 61,
+            "hash": [
+                [
+                    109,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 62,
+            "hash": [
+                [
+                    109,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 63,
+            "hash": [
+                [
+                    109,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 64,
+            "hash": [
+                [
+                    109,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 65,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 66,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 67,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 68,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 69,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 70,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 71,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 72,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 73,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 74,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 75,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 76,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 77,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 78,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 79,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 80,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 81,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 82,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 83,
+            "hash": [
+                [
+                    101,
+                    7,
+                    35,
+                    3,
+                    129,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 84,
+            "hash": [
+                [
+                    103,
+                    6,
+                    33,
+                    1,
+                    129,
+                    129,
+                    133,
+                    164
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 85,
+            "hash": [
+                [
+                    103,
+                    4,
+                    33,
+                    1,
+                    129,
+                    129,
+                    133,
+                    164
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 86,
+            "hash": [
+                [
+                    103,
+                    4,
+                    33,
+                    1,
+                    129,
+                    129,
+                    133,
+                    164
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 87,
+            "hash": [
+                [
+                    103,
+                    4,
+                    33,
+                    1,
+                    129,
+                    129,
+                    134,
+                    164
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 88,
+            "hash": [
+                [
+                    119,
+                    5,
+                    33,
+                    1,
+                    129,
+                    128,
+                    135,
+                    164
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 89,
+            "hash": [
+                [
+                    127,
+                    21,
+                    33,
+                    1,
+                    128,
+                    128,
+                    135,
+                    164
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 90,
+            "hash": [
+                [
+                    127,
+                    23,
+                    33,
+                    1,
+                    128,
+                    128,
+                    135,
+                    132
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 91,
+            "hash": [
+                [
+                    127,
+                    23,
+                    33,
+                    1,
+                    128,
+                    129,
+                    133,
+                    133
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 92,
+            "hash": [
+                [
+                    111,
+                    31,
+                    33,
+                    1,
+                    0,
+                    129,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 93,
+            "hash": [
+                [
+                    111,
+                    31,
+                    41,
+                    9,
+                    0,
+                    0,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 94,
+            "hash": [
+                [
+                    79,
+                    31,
+                    41,
+                    9,
+                    0,
+                    0,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 95,
+            "hash": [
+                [
+                    79,
+                    31,
+                    33,
+                    9,
+                    1,
+                    1,
+                    132,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 96,
+            "hash": [
+                [
+                    79,
+                    31,
+                    33,
+                    9,
+                    1,
+                    1,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 97,
+            "hash": [
+                [
+                    79,
+                    31,
+                    41,
+                    9,
+                    1,
+                    1,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 98,
+            "hash": [
+                [
+                    79,
+                    29,
+                    41,
+                    9,
+                    1,
+                    1,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 99,
+            "hash": [
+                [
+                    95,
+                    29,
+                    33,
+                    9,
+                    1,
+                    1,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 100,
+            "hash": [
+                [
+                    95,
+                    29,
+                    41,
+                    9,
+                    1,
+                    1,
+                    133,
+                    5
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 101,
+            "hash": [
+                [
+                    95,
+                    29,
+                    41,
+                    9,
+                    1,
+                    1,
+                    133,
+                    4
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 102,
+            "hash": [
+                [
+                    95,
+                    77,
+                    73,
+                    9,
+                    33,
+                    1,
+                    165,
+                    68
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 103,
+            "hash": [
+                [
+                    95,
+                    77,
+                    73,
+                    41,
+                    33,
+                    33,
+                    164,
+                    68
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 104,
+            "hash": [
+                [
+                    127,
+                    76,
+                    73,
+                    9,
+                    1,
+                    32,
+                    228,
+                    101
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 105,
+            "hash": [
+                [
+                    127,
+                    76,
+                    105,
+                    41,
+                    0,
+                    96,
+                    228,
+                    37
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 106,
+            "hash": [
+                [
+                    125,
+                    76,
+                    40,
+                    40,
+                    65,
+                    97,
+                    165,
+                    103
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 107,
+            "hash": [
+                [
+                    124,
+                    92,
+                    41,
+                    9,
+                    1,
+                    65,
+                    229,
+                    37
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 108,
+            "hash": [
+                [
+                    93,
+                    92,
+                    1,
+                    73,
+                    97,
+                    1,
+                    229,
+                    101
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 109,
+            "hash": [
+                [
+                    93,
+                    92,
+                    1,
+                    65,
+                    97,
+                    1,
+                    231,
+                    101
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 110,
+            "hash": [
+                [
+                    77,
+                    92,
+                    1,
+                    65,
+                    97,
+                    1,
+                    229,
+                    37
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 111,
+            "hash": [
+                [
+                    77,
+                    92,
+                    65,
+                    65,
+                    65,
+                    33,
+                    231,
+                    37
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 112,
+            "hash": [
+                [
+                    77,
+                    76,
+                    65,
+                    71,
+                    71,
+                    103,
+                    231,
+                    103
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 113,
+            "hash": [
+                [
+                    77,
+                    12,
+                    1,
+                    7,
+                    71,
+                    103,
+                    231,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 114,
+            "hash": [
+                [
+                    77,
+                    12,
+                    1,
+                    7,
+                    71,
+                    103,
+                    231,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 115,
+            "hash": [
+                [
+                    77,
+                    76,
+                    97,
+                    7,
+                    7,
+                    71,
+                    231,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 116,
+            "hash": [
+                [
+                    13,
+                    76,
+                    97,
+                    7,
+                    7,
+                    71,
+                    199,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 117,
+            "hash": [
+                [
+                    13,
+                    76,
+                    65,
+                    71,
+                    7,
+                    71,
+                    199,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 118,
+            "hash": [
+                [
+                    77,
+                    76,
+                    65,
+                    103,
+                    7,
+                    71,
+                    231,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 119,
+            "hash": [
+                [
+                    77,
+                    76,
+                    65,
+                    103,
+                    7,
+                    71,
+                    231,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 120,
+            "hash": [
+                [
+                    77,
+                    100,
+                    65,
+                    39,
+                    103,
+                    71,
+                    199,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 121,
+            "hash": [
+                [
+                    69,
+                    4,
+                    97,
+                    71,
+                    103,
+                    39,
+                    231,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 122,
+            "hash": [
+                [
+                    69,
+                    68,
+                    65,
+                    71,
+                    71,
+                    7,
+                    199,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 123,
+            "hash": [
+                [
+                    5,
+                    68,
+                    1,
+                    71,
+                    103,
+                    39,
+                    135,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 124,
+            "hash": [
+                [
+                    69,
+                    68,
+                    33,
+                    71,
+                    103,
+                    39,
+                    135,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 125,
+            "hash": [
+                [
+                    5,
+                    68,
+                    1,
+                    71,
+                    71,
+                    7,
+                    167,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 126,
+            "hash": [
+                [
+                    13,
+                    68,
+                    1,
+                    71,
+                    103,
+                    7,
+                    231,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 127,
+            "hash": [
+                [
+                    93,
+                    68,
+                    1,
+                    71,
+                    7,
+                    7,
+                    231,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 128,
+            "hash": [
+                [
+                    109,
+                    4,
+                    1,
+                    71,
+                    7,
+                    103,
+                    231,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 129,
+            "hash": [
+                [
+                    77,
+                    4,
+                    97,
+                    71,
+                    7,
+                    103,
+                    167,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 130,
+            "hash": [
+                [
+                    77,
+                    12,
+                    65,
+                    7,
+                    7,
+                    103,
+                    231,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 131,
+            "hash": [
+                [
+                    77,
+                    12,
+                    1,
+                    7,
+                    7,
+                    103,
+                    231,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 132,
+            "hash": [
+                [
+                    109,
+                    12,
+                    1,
+                    7,
+                    71,
+                    39,
+                    231,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 133,
+            "hash": [
+                [
+                    109,
+                    12,
+                    1,
+                    7,
+                    71,
+                    103,
+                    231,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 134,
+            "hash": [
+                [
+                    77,
+                    12,
+                    1,
+                    7,
+                    71,
+                    103,
+                    230,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 135,
+            "hash": [
+                [
+                    77,
+                    12,
+                    129,
+                    135,
+                    7,
+                    103,
+                    38,
+                    198
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 136,
+            "hash": [
+                [
+                    77,
+                    76,
+                    129,
+                    135,
+                    7,
+                    103,
+                    102,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 137,
+            "hash": [
+                [
+                    109,
+                    76,
+                    129,
+                    135,
+                    39,
+                    71,
+                    38,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 138,
+            "hash": [
+                [
+                    77,
+                    76,
+                    129,
+                    135,
+                    7,
+                    71,
+                    102,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 139,
+            "hash": [
+                [
+                    109,
+                    76,
+                    193,
+                    39,
+                    7,
+                    71,
+                    102,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 140,
+            "hash": [
+                [
+                    109,
+                    76,
+                    193,
+                    39,
+                    7,
+                    7,
+                    102,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 141,
+            "hash": [
+                [
+                    109,
+                    76,
+                    193,
+                    7,
+                    7,
+                    71,
+                    102,
+                    198
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 142,
+            "hash": [
+                [
+                    109,
+                    108,
+                    193,
+                    39,
+                    39,
+                    71,
+                    102,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 143,
+            "hash": [
+                [
+                    77,
+                    76,
+                    33,
+                    7,
+                    7,
+                    71,
+                    102,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 144,
+            "hash": [
+                [
+                    77,
+                    100,
+                    33,
+                    7,
+                    71,
+                    199,
+                    102,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 145,
+            "hash": [
+                [
+                    205,
+                    69,
+                    33,
+                    7,
+                    199,
+                    199,
+                    230,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 146,
+            "hash": [
+                [
+                    141,
+                    5,
+                    1,
+                    39,
+                    199,
+                    199,
+                    102,
+                    38
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 147,
+            "hash": [
+                [
+                    237,
+                    5,
+                    1,
+                    7,
+                    199,
+                    231,
+                    102,
+                    38
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 148,
+            "hash": [
+                [
+                    109,
+                    37,
+                    129,
+                    7,
+                    71,
+                    103,
+                    230,
+                    38
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 149,
+            "hash": [
+                [
+                    205,
+                    69,
+                    161,
+                    7,
+                    71,
+                    71,
+                    38,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 150,
+            "hash": [
+                [
+                    173,
+                    101,
+                    1,
+                    135,
+                    71,
+                    103,
+                    38,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 151,
+            "hash": [
+                [
+                    45,
+                    101,
+                    1,
+                    135,
+                    71,
+                    103,
+                    38,
+                    230
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 152,
+            "hash": [
+                [
+                    69,
+                    101,
+                    65,
+                    135,
+                    135,
+                    199,
+                    102,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 153,
+            "hash": [
+                [
+                    197,
+                    101,
+                    65,
+                    135,
+                    135,
+                    71,
+                    230,
+                    38
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 154,
+            "hash": [
+                [
+                    229,
+                    197,
+                    65,
+                    135,
+                    135,
+                    135,
+                    230,
+                    38
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 155,
+            "hash": [
+                [
+                    101,
+                    229,
+                    65,
+                    135,
+                    135,
+                    199,
+                    166,
+                    38
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 156,
+            "hash": [
+                [
+                    229,
+                    229,
+                    65,
+                    135,
+                    7,
+                    231,
+                    166,
+                    102
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 157,
+            "hash": [
+                [
+                    37,
+                    229,
+                    1,
+                    167,
+                    39,
+                    231,
+                    102,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 158,
+            "hash": [
+                [
+                    5,
+                    197,
+                    65,
+                    167,
+                    39,
+                    199,
+                    230,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 159,
+            "hash": [
+                [
+                    5,
+                    197,
+                    97,
+                    135,
+                    135,
+                    199,
+                    230,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 160,
+            "hash": [
+                [
+                    5,
+                    197,
+                    65,
+                    135,
+                    135,
+                    231,
+                    166,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 161,
+            "hash": [
+                [
+                    7,
+                    69,
+                    1,
+                    167,
+                    135,
+                    231,
+                    231,
+                    70
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 162,
+            "hash": [
+                [
+                    71,
+                    71,
+                    1,
+                    135,
+                    135,
+                    199,
+                    231,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 163,
+            "hash": [
+                [
+                    103,
+                    135,
+                    3,
+                    135,
+                    199,
+                    199,
+                    199,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 164,
+            "hash": [
+                [
+                    101,
+                    135,
+                    3,
+                    135,
+                    71,
+                    199,
+                    199,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 165,
+            "hash": [
+                [
+                    71,
+                    135,
+                    3,
+                    135,
+                    71,
+                    71,
+                    71,
+                    103
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 166,
+            "hash": [
+                [
+                    71,
+                    135,
+                    3,
+                    39,
+                    71,
+                    71,
+                    71,
+                    103
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 167,
+            "hash": [
+                [
+                    71,
+                    199,
+                    35,
+                    39,
+                    39,
+                    71,
+                    71,
+                    103
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 168,
+            "hash": [
+                [
+                    71,
+                    199,
+                    33,
+                    103,
+                    7,
+                    39,
+                    71,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 169,
+            "hash": [
+                [
+                    71,
+                    71,
+                    33,
+                    7,
+                    71,
+                    39,
+                    103,
+                    39
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 170,
+            "hash": [
+                [
+                    71,
+                    69,
+                    33,
+                    7,
+                    71,
+                    39,
+                    103,
+                    166
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 171,
+            "hash": [
+                [
+                    71,
+                    101,
+                    33,
+                    71,
+                    71,
+                    6,
+                    102,
+                    231
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 172,
+            "hash": [
+                [
+                    71,
+                    69,
+                    33,
+                    71,
+                    70,
+                    6,
+                    38,
+                    231
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 173,
+            "hash": [
+                [
+                    103,
+                    101,
+                    97,
+                    71,
+                    70,
+                    102,
+                    102,
+                    7
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 174,
+            "hash": [
+                [
+                    103,
+                    101,
+                    97,
+                    71,
+                    70,
+                    102,
+                    102,
+                    7
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 175,
+            "hash": [
+                [
+                    71,
+                    103,
+                    97,
+                    71,
+                    6,
+                    38,
+                    102,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 176,
+            "hash": [
+                [
+                    71,
+                    71,
+                    65,
+                    7,
+                    70,
+                    102,
+                    102,
+                    198
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 177,
+            "hash": [
+                [
+                    7,
+                    103,
+                    65,
+                    7,
+                    70,
+                    102,
+                    102,
+                    134
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 178,
+            "hash": [
+                [
+                    7,
+                    101,
+                    97,
+                    7,
+                    71,
+                    103,
+                    102,
+                    134
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 179,
+            "hash": [
+                [
+                    7,
+                    37,
+                    65,
+                    7,
+                    71,
+                    103,
+                    39,
+                    134
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 180,
+            "hash": [
+                [
+                    248,
+                    234,
+                    210,
+                    228,
+                    68,
+                    96,
+                    96,
+                    96
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 181,
+            "hash": [
+                [
+                    216,
+                    234,
+                    218,
+                    228,
+                    68,
+                    96,
+                    96,
+                    112
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 182,
+            "hash": [
+                [
+                    216,
+                    234,
+                    218,
+                    228,
+                    68,
+                    96,
+                    96,
+                    112
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 183,
+            "hash": [
+                [
+                    216,
+                    234,
+                    218,
+                    228,
+                    68,
+                    64,
+                    96,
+                    112
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 184,
+            "hash": [
+                [
+                    216,
+                    234,
+                    218,
+                    228,
+                    68,
+                    96,
+                    96,
+                    96
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 185,
+            "hash": [
+                [
+                    216,
+                    234,
+                    210,
+                    228,
+                    196,
+                    96,
+                    96,
+                    112
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 186,
+            "hash": [
+                [
+                    216,
+                    234,
+                    210,
+                    228,
+                    196,
+                    96,
+                    96,
+                    112
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 187,
+            "hash": [
+                [
+                    216,
+                    234,
+                    210,
+                    228,
+                    196,
+                    96,
+                    96,
+                    112
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 188,
+            "hash": [
+                [
+                    216,
+                    234,
+                    210,
+                    228,
+                    228,
+                    96,
+                    96,
+                    96
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 189,
+            "hash": [
+                [
+                    216,
+                    234,
+                    210,
+                    228,
+                    228,
+                    224,
+                    96,
+                    112
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 190,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 191,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 192,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 193,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 194,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 195,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 196,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 197,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 198,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 199,
+            "hash": [
+                [
+                    238,
+                    238,
+                    230,
+                    230,
+                    226,
+                    166,
+                    98,
+                    64
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 200,
+            "hash": [
+                [
+                    247,
+                    229,
+                    247,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 201,
+            "hash": [
+                [
+                    247,
+                    229,
+                    247,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 202,
+            "hash": [
+                [
+                    247,
+                    229,
+                    231,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 203,
+            "hash": [
+                [
+                    247,
+                    229,
+                    231,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 204,
+            "hash": [
+                [
+                    231,
+                    229,
+                    247,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 205,
+            "hash": [
+                [
+                    231,
+                    229,
+                    231,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 206,
+            "hash": [
+                [
+                    231,
+                    229,
+                    247,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 207,
+            "hash": [
+                [
+                    231,
+                    229,
+                    247,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 208,
+            "hash": [
+                [
+                    231,
+                    229,
+                    247,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 209,
+            "hash": [
+                [
+                    231,
+                    229,
+                    247,
+                    227,
+                    224,
+                    224,
+                    224,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 210,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 211,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 212,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 213,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 214,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 215,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 216,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 217,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 218,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 219,
+            "hash": [
+                [
+                    239,
+                    103,
+                    231,
+                    228,
+                    164,
+                    228,
+                    228,
+                    228
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 220,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    102,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 221,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    102,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 222,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    102,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 223,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    102,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 224,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    102,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 225,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    70,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 226,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    70,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 227,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    70,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 228,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    70,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 229,
+            "hash": [
+                [
+                    103,
+                    103,
+                    103,
+                    103,
+                    118,
+                    70,
+                    6,
+                    6
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 230,
+            "hash": [
+                [
+                    206,
+                    206,
+                    205,
+                    207,
+                    192,
+                    72,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 231,
+            "hash": [
+                [
+                    206,
+                    206,
+                    204,
+                    207,
+                    192,
+                    72,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 232,
+            "hash": [
+                [
+                    206,
+                    206,
+                    205,
+                    207,
+                    192,
+                    72,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 233,
+            "hash": [
+                [
+                    206,
+                    206,
+                    204,
+                    207,
+                    192,
+                    72,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 234,
+            "hash": [
+                [
+                    206,
+                    206,
+                    204,
+                    207,
+                    192,
+                    72,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 235,
+            "hash": [
+                [
+                    238,
+                    206,
+                    204,
+                    207,
+                    192,
+                    104,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 236,
+            "hash": [
+                [
+                    238,
+                    206,
+                    204,
+                    207,
+                    192,
+                    104,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 237,
+            "hash": [
+                [
+                    238,
+                    206,
+                    204,
+                    207,
+                    192,
+                    104,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 238,
+            "hash": [
+                [
+                    238,
+                    206,
+                    204,
+                    207,
+                    192,
+                    96,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 239,
+            "hash": [
+                [
+                    238,
+                    206,
+                    205,
+                    199,
+                    192,
+                    96,
+                    228,
+                    224
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 240,
+            "hash": [
+                [
+                    228,
+                    255,
+                    212,
+                    204,
+                    76,
+                    228,
+                    197,
+                    196
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 241,
+            "hash": [
+                [
+                    236,
+                    239,
+                    196,
+                    204,
+                    204,
+                    236,
+                    196,
+                    196
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 242,
+            "hash": [
+                [
+                    237,
+                    239,
+                    192,
+                    204,
+                    204,
+                    236,
+                    196,
+                    196
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 243,
+            "hash": [
+                [
+                    237,
+                    239,
+                    208,
+                    204,
+                    200,
+                    232,
+                    200,
+                    192
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 244,
+            "hash": [
+                [
+                    253,
+                    191,
+                    208,
+                    220,
+                    200,
+                    232,
+                    200,
+                    72
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 245,
+            "hash": [
+                [
+                    237,
+                    239,
+                    210,
+                    140,
+                    136,
+                    232,
+                    200,
+                    72
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 246,
+            "hash": [
+                [
+                    236,
+                    239,
+                    210,
+                    156,
+                    136,
+                    232,
+                    200,
+                    72
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 247,
+            "hash": [
+                [
+                    237,
+                    239,
+                    146,
+                    140,
+                    200,
+                    232,
+                    200,
+                    72
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 248,
+            "hash": [
+                [
+                    173,
+                    175,
+                    128,
+                    204,
+                    200,
+                    200,
+                    200,
+                    72
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 249,
+            "hash": [
+                [
+                    189,
+                    175,
+                    200,
+                    236,
+                    232,
+                    200,
+                    200,
+                    72
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 250,
+            "hash": [
+                [
+                    74,
+                    78,
+                    106,
+                    122,
+                    106,
+                    106,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 251,
+            "hash": [
+                [
+                    74,
+                    78,
+                    106,
+                    126,
+                    123,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 252,
+            "hash": [
+                [
+                    78,
+                    78,
+                    107,
+                    111,
+                    107,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 253,
+            "hash": [
+                [
+                    78,
+                    78,
+                    107,
+                    111,
+                    107,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 254,
+            "hash": [
+                [
+                    74,
+                    94,
+                    122,
+                    110,
+                    107,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 255,
+            "hash": [
+                [
+                    74,
+                    78,
+                    106,
+                    127,
+                    123,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 256,
+            "hash": [
+                [
+                    78,
+                    110,
+                    99,
+                    103,
+                    107,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 257,
+            "hash": [
+                [
+                    78,
+                    110,
+                    107,
+                    103,
+                    107,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 258,
+            "hash": [
+                [
+                    110,
+                    110,
+                    99,
+                    103,
+                    107,
+                    107,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 259,
+            "hash": [
+                [
+                    110,
+                    102,
+                    99,
+                    103,
+                    107,
+                    111,
+                    47,
+                    71
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 260,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 261,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 262,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 263,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 264,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 265,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 266,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 267,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 268,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 269,
+            "hash": [
+                [
+                    96,
+                    100,
+                    48,
+                    116,
+                    96,
+                    112,
+                    116,
+                    124
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 270,
+            "hash": [
+                [
+                    178,
+                    180,
+                    176,
+                    38,
+                    32,
+                    38,
+                    230,
+                    238
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 271,
+            "hash": [
+                [
+                    32,
+                    52,
+                    34,
+                    38,
+                    32,
+                    39,
+                    47,
+                    111
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 272,
+            "hash": [
+                [
+                    32,
+                    36,
+                    34,
+                    38,
+                    33,
+                    47,
+                    47,
+                    111
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 273,
+            "hash": [
+                [
+                    32,
+                    36,
+                    34,
+                    38,
+                    33,
+                    47,
+                    111,
+                    111
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 274,
+            "hash": [
+                [
+                    32,
+                    38,
+                    34,
+                    38,
+                    40,
+                    47,
+                    47,
+                    111
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 275,
+            "hash": [
+                [
+                    32,
+                    38,
+                    34,
+                    38,
+                    42,
+                    47,
+                    47,
+                    111
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 276,
+            "hash": [
+                [
+                    32,
+                    52,
+                    42,
+                    38,
+                    32,
+                    39,
+                    47,
+                    111
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 277,
+            "hash": [
+                [
+                    32,
+                    36,
+                    32,
+                    36,
+                    40,
+                    47,
+                    239,
+                    47
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 278,
+            "hash": [
+                [
+                    32,
+                    36,
+                    32,
+                    37,
+                    40,
+                    39,
+                    239,
+                    47
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 279,
+            "hash": [
+                [
+                    32,
+                    36,
+                    32,
+                    36,
+                    34,
+                    39,
+                    167,
+                    47
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 280,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    232,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 281,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 282,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 283,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 284,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 285,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 286,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 287,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 288,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 289,
+            "hash": [
+                [
+                    176,
+                    180,
+                    208,
+                    212,
+                    224,
+                    200,
+                    248,
+                    120
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 290,
+            "hash": [
+                [
+                    201,
+                    237,
+                    236,
+                    237,
+                    236,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 291,
+            "hash": [
+                [
+                    201,
+                    237,
+                    236,
+                    237,
+                    204,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 292,
+            "hash": [
+                [
+                    207,
+                    237,
+                    236,
+                    237,
+                    204,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 293,
+            "hash": [
+                [
+                    207,
+                    237,
+                    236,
+                    237,
+                    204,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 294,
+            "hash": [
+                [
+                    207,
+                    205,
+                    236,
+                    237,
+                    76,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 295,
+            "hash": [
+                [
+                    207,
+                    205,
+                    236,
+                    109,
+                    108,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 296,
+            "hash": [
+                [
+                    207,
+                    205,
+                    236,
+                    109,
+                    108,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 297,
+            "hash": [
+                [
+                    207,
+                    205,
+                    236,
+                    109,
+                    108,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 298,
+            "hash": [
+                [
+                    207,
+                    205,
+                    236,
+                    109,
+                    108,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 299,
+            "hash": [
+                [
+                    207,
+                    205,
+                    236,
+                    109,
+                    236,
+                    128,
+                    136,
+                    136
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 300,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 301,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 302,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 303,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 304,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 305,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 306,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 307,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 308,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 309,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 310,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 311,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 312,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 313,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 314,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 315,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 316,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    8,
+                    24,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 317,
+            "hash": [
+                [
+                    0,
+                    0,
+                    0,
+                    16,
+                    24,
+                    4,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 318,
+            "hash": [
+                [
+                    0,
+                    0,
+                    16,
+                    20,
+                    4,
+                    4,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 319,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    16,
+                    28,
+                    56,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 320,
+            "hash": [
+                [
+                    0,
+                    0,
+                    32,
+                    20,
+                    4,
+                    4,
+                    36,
+                    32
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 321,
+            "hash": [
+                [
+                    0,
+                    16,
+                    48,
+                    20,
+                    0,
+                    48,
+                    4,
+                    20
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 322,
+            "hash": [
+                [
+                    36,
+                    52,
+                    52,
+                    52,
+                    36,
+                    52,
+                    36,
+                    52
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 323,
+            "hash": [
+                [
+                    16,
+                    16,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 324,
+            "hash": [
+                [
+                    16,
+                    16,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 325,
+            "hash": [
+                [
+                    16,
+                    16,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    16
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 326,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    16
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 327,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    24
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 328,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 329,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 330,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    24,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 331,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 332,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 333,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 334,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 335,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 336,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 337,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 338,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 339,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 340,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 341,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 342,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 343,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 344,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 345,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 346,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 347,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 348,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 349,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 350,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 351,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 352,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 353,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 354,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 355,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 356,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 357,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 358,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 359,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 360,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 361,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 362,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 363,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 364,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 365,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 366,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 367,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 368,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 369,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 370,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 371,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 372,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        },
+        {
+            "n_frame": 373,
+            "hash": [
+                [
+                    0,
+                    16,
+                    16,
+                    0,
+                    0,
+                    24,
+                    0,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        }
+    ]
+}

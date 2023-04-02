@@ -1,0 +1,22 @@
+{
+    "cnc_vol_kathecreadoracontenido_15_comisiones.mp4": [
+        {
+            "n_frame": 205,
+            "hash": [
+                [
+                    231,
+                    229,
+                    231,
+                    227,
+                    224,
+                    224,
+                    160,
+                    0
+                ]
+            ],
+            "hash_method": "average",
+            "distance:": 0,
+            "cropping": 33
+        }
+    ]
+}
